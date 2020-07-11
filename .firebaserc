@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "training-project-mg": {
+      "hosting": {
+        "tictactoe": [
+          "training-project-mg"
+        ]
+      }
+    }
+  }
+}
